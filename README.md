@@ -4,4 +4,4 @@
 
 > Learn Morse code 🟣   ⇒  [Morse](https://zmorse.vercel.app)
 
-> Blender 3D 🧊   ⇒  [Blender](https://b3d.vercel.app)
+> Blender 3D Web Redesign 🧊   ⇒  [Blender-3D](https://b3d.vercel.app)
