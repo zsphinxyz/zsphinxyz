@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-> Wanna see a magic trick 🪄 ▶ [21-Card-Trick ](https://21magic.vercel.app)
+> Wanna see a magic trick 🪄  ⇒  [21-Card-Trick ](https://21magic.vercel.app)
 
-> Learn Morse code 🟣 ▶ [Morse](https://zmorse.vercel.app)
+> Learn Morse code 🟣   ⇒  [Morse](https://zmorse.vercel.app)
 
-> Blender 3D 🧊 ▶ [Blender](https://b3d.vercel.app)
+> Blender 3D 🧊   ⇒  [Blender](https://b3d.vercel.app)
